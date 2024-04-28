@@ -2,7 +2,7 @@
 
 Repo for Crypto for Data Science at Boston University.
 
-Instructor: [Mayank Varia](https:/mvaria.com)
+Instructor: [Mayank Varia](https://www.mvaria.com)
 
 Live Lecture Notes: [DS 453 / 653 Notes Compilation](https://typst.app/project/rGyzYcjDW17fjR-KN1SaGP)
 
